@@ -1,18 +1,33 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"BT1";"BatteryHolder_Keystone_3000_1x12mm";1;"Battery_Cell";;;
-2;"C1";"C_0603_1608Metric";1;"2.2µF";;;
-3;"C2";"C_0805_2012Metric";1;"22µF";;;
-4;"C3";"C_0603_1608Metric";1;"100nF";;;
-5;"D1";"LED_0603_1608Metric";1;"LED";;;
-6;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"USB_C_Receptacle_PowerOnly_6P";;;
-7;"L1";"L_Bourns_SRR1260";1;"10µH";;;
-8;"Q1, Q2";"SOT-23-6";2;"Q_NMOS_GSD";;;
-9;"R1, R2";"R_0603_1608Metric";2;"5.1k";;;
-10;"R3";"R_0603_1608Metric";1;"2.2k";;;
-11;"R4";"R_0603_1608Metric";1;"1.2 kΩ";;;
-12;"R5";"R_0603_1608Metric";1;"15k";;;
-13;"R6";"R_0603_1608Metric";1;"4.99k";;;
-14;"R7";"R_0603_1608Metric";1;"100Ω";;;
-15;"U1";"SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias";1;"TP4056-42-ESOP8";;;
-16;"U2";"SOT-23-6";1;"DW01A";;;
-17;"U3";"Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias";1;"MIC2290";;;
+Designator,Value,Footprint,LCSC Part #,Type,Manufacturer,MPN,Order Qty (5 pcs),Price (USD),X (mm),Y (mm),Rot
+BT1,Battery_Cell,BatteryHolder_Keystone_3000_1x12mm,C238097,Extended,Keystone,3000,5,1.709,152.2,-102.8,0.0
+C3,100nF,C_0603_1608Metric,C14663,Basic,YAGEO,CC0603KRX7R9BB104,5,0.042,147.9375,-118.8,90.0
+D1,LED,LED_0603_1608Metric,C99290,Extended,Lite-On,LTST-C191TBKT,20,0.426,126.275,-121.0025,90.0
+J1,USB_C_Receptacle_PowerOnly_6P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948,Extended,Korean Hroparts Elec,TYPE-C-31-M-12,5,0.934,134.11,-97.2,180.0
+L1,10µH,L_Bourns_SRR1260,C3221699,Extended,BOURNS,SRR1260-100M,5,4.6695,137.2,-133.8,0.0
+Q1,Q_NMOS_GSD,SOT-23-6,C908265,Extended,FUXINSEMI,FS8205A,14,1.0038,157.6625,-126.4,0.0
+Q2,Q_NMOS_GSD,SOT-23-6,C908265,Extended,FUXINSEMI,FS8205A,,,150.4625,-126.4,0.0
+R1,5.1k,R_0603_1608Metric,C23186,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF5101T5E,10,0.015,131.9,-120.59,0.0
+R2,5.1k,R_0603_1608Metric,C23186,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF5101T5E,,,131.6,-105.4,0.0
+R3,2.2k,R_0603_1608Metric,C4190,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF2201T5E,5,0.009,126.075,-115.19,90.0
+R4,1.2kΩ,R_0603_1608Metric,C22765,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF1201T5E,5,0.017,141.875,-113.565,90.0
+R5,15k,R_0603_1608Metric,C22809,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF1502T5E,5,0.0145,148.3,-139.075,90.0
+R6,4.99k,R_0603_1608Metric,C23046,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF4991T5E,5,0.0105,155.5,-139.825,90.0
+R7,100Ω,R_0603_1608Metric,C22775,Basic,UNI-ROYAL(Uniroyal Elec),0603WAF1000T5E,5,0.0115,126.75,-134.225,90.0
+U1,TP4056-42-ESOP8,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,C16581,Extended,TOPPOWER(Nanjing Extension Microelectronics),TP4056-42-ESOP8,5,0.9265,134.475,-114.765,0.0
+U2,DW01A,SOT-23-6,C351410,Extended,PUOLOP,DW01A,9,0.4788,154.5375,-118.6,0.0
+U3,MIC2290,Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.8x1.3mm_ThermalVias,C144214,Extended,Microchip Tech,MIC2290YML-TR,5,8.455,152.3,-135.65,0.0
+C1,2.2µF,C_0603_1608Metric,C9900011780,Extended,JLCPCB Assembly,"cap,2.2uF,+/-10%,25V,X5R,C0603",20,0.014,128.475,-112.215,90.0
+C2,22µF,C_0805_2012Metric,C9900276340,Extended,JLCPCB Assembly,22uF 10V C-0805,9,0.3582,157.0,-134.8,90.0
+Parts total - JLCPCB BOM match (5 boards),,,,,,,,19.0943,,,
+"PCB (5 pcs, 2 layers, 1.6mm, HASL with lead, green)",,,,,,,,4.00,,,
+PCBA setup fee,,,,,,,,8.24,,,
+PCBA stencil,,,,,,,,1.55,,,
+PCBA components (11 items),,,,,,,,10.41,,,
+PCBA extended components fee,,,,,,,,9.27,,,
+PCBA SMT assembly,,,,,,,,0.45,,,
+PCBA nitrogen reflow soldering,,,,,,,,0.91,,,
+"PCBA subtotal (economic, top side)",,,,,,,,30.83,,,
+Merchandise total (PCB + PCBA),,,,,,,,34.83,,,
+Shipping,,,,,,,,9.83,,,
+Coupon,,,,,,,,-10.00,,,
+Order subtotal,,,,,,,,34.66,,,
