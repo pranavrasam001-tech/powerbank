@@ -169,9 +169,57 @@ Before powering the circuit:
 * Inspect the PCB for shorts and incorrect connections.
 * Test the charging and output stages under controlled conditions.
 
-Do not connect a battery or valuable electronic device until the circuit has been reviewed and checked for faults.
 
+## CAD Design – Autodesk Fusion 360
+
+Along with designing the PCB, I also worked on creating a custom enclosure for the mini power bank using Autodesk Fusion 360. The main goal was to design a compact box that could hold the battery and PCB properly while providing easy access to the charging port and LED indicator.
+
+### What I Designed
+
+- **Main Enclosure:** Created the main rectangular box with a base and side walls to hold the internal components. Added rounded edges for a clean finish.
+- **Internal Base:** Redesigned the inside base and added a small block to represent the battery placement. Also created small supports to keep the components in their proper positions.
+- **Component Fitment:** Checked the dimensions and made sure the battery and other parts fit properly inside the enclosure.
+- **USB Type-C Opening:** Created an opening on the side of the enclosure for connecting the charging cable.
+- **LED Indicator Opening:** Added a small hole on the top surface to make the LED indicator visible from outside.
+- **Top Cover:** Designed a separate top cover and checked how it fits with the main enclosure.
+
+### Software Used
+
+- Autodesk Fusion 360
+
+### Design Progress
+
+The basic enclosure design and its main features have been created. The internal space, battery placement, component supports, charging port opening, LED indicator hole, and top cover have been modelled.
+
+### Next Steps
+
+- Check the final dimensions of the enclosure.
+- Verify the PCB and battery fit inside the case.
+- Make any required changes to the design.
+- Prepare the final CAD model for 3D printing.
+- Test the physical enclosure with the assembled PCB and battery.
+
+### CAD Design Preview
+
+The following section will contain screenshots of the enclosure design created in Autodesk Fusion 360.
+
+**1. Main Enclosure Design**
+
+**2. Internal Base and Component Placement**
+
+**3. USB Type-C Charging Port**
+
+**4. LED Indicator Opening**
+
+**5. Top Cover and Final Assembly**
+
+
+
+<img width="753" height="398" alt="image" src="https://github.com/user-attachments/assets/0f5211ea-7811-46f0-9362-6e580edd5cb7" />
+
+<img width="686" height="460" alt="image" src="https://github.com/user-attachments/assets/996aa8af-0c61-40c2-a029-b436873837e4" />
 
 ```
 
-The folder structure is a suggested organization for the project repository. Update the filenames and folders to match the files actually included in the repository.
+
+
