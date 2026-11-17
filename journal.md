@@ -63,7 +63,7 @@ the pcb still needed some work because a few connections were not routed and the
 
 ------
 
-# date:15/11
+# date:16/11
 # time spent:0.75hr
 ## description:
 I started making power bank in Autodesk. In the start I have just created a rectangular box to keep all the components inside it, and the edges I have given edges with a little curved shape to look good and hook it. And there was enough place to make base so that every part fits in it, and I'll just check if every part is getting fitted in it or not.
@@ -73,7 +73,7 @@ I started making power bank in Autodesk. In the start I have just created a rect
 
 ------
 
-# date:15/11
+# date:16/11
 # time spent:0.8hr
 ## description:
 So now where the inside part comes here, I have redesigned the inside base part. I added small block inside, like to show where batteries are placed, and also created a small support so that the parts could have support to be in their position. And I have checked all the parts as it is fitting in it with the exact dimensions. Now the main part is I need to make a hole with a good design for the charging cable.
@@ -94,7 +94,7 @@ worked on creating an opening on the side of the power bank box for the charging
 
 ------
 
-# date:16/11
+# date:17/11
 # time spent:1hr
 ## description:
 worked on adding a small hole on the top of the power bank box for the led indicator. adjusted its position and size to make sure the light can be seen easily from outside. checked the design to ensure it does not affect the other parts inside the box. next, i'll work on the top cover and make sure it fits properly with the main box.
@@ -106,7 +106,7 @@ worked on adding a small hole on the top of the power bank box for the led indic
 
 ------
 
-# date:16/11
+# date:17/11
 # time spent:1hr
 ## description:
 completed the main design of the power bank box in autodesk fusion 360. created the top cover and checked how it fits with the main body. also checked the charging port and led indicator openings to make sure they are in the correct positions. viewed the complete design from different sides and made sure everything looks properly aligned. next, i'll check the final measurements and prepare the design for 3d printing.
