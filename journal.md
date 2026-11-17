@@ -60,3 +60,56 @@ i arranged the components on the pcb by keeping the usb c connector near the cha
 the pcb still needed some work because a few connections were not routed and the layout was not fully complete i planned to finish the routing check all the footprints and protection connections fix the remaining schematic and erc issues and run drc to check track widths clearances and any unconnected nets before sending the board for fabrication
 ## Images
 <img width="914" height="890" alt="image" src="https://github.com/user-attachments/assets/9036501c-5119-4c6c-a3e3-c526ef8ddb24" />
+
+------
+
+# date:15/11
+# time spent:0.75hr
+## description:
+I started making power bank in Autodesk. In the start I have just created a rectangular box to keep all the components inside it, and the edges I have given edges with a little curved shape to look good and hook it. And there was enough place to make base so that every part fits in it, and I'll just check if every part is getting fitted in it or not.
+## Images
+<img width="753" height="447" alt="image" src="https://github.com/user-attachments/assets/203f5bbf-81ea-40b1-9caf-6715530ca95a" />
+<img width="753" height="616" alt="image" src="https://github.com/user-attachments/assets/092aac02-baba-4e8e-84a3-85faf5c70bc9" />
+
+------
+
+# date:15/11
+# time spent:0.8hr
+## description:
+So now where the inside part comes here, I have redesigned the inside base part. I added small block inside, like to show where batteries are placed, and also created a small support so that the parts could have support to be in their position. And I have checked all the parts as it is fitting in it with the exact dimensions. Now the main part is I need to make a hole with a good design for the charging cable.
+## Images
+<img width="753" height="459" alt="image" src="https://github.com/user-attachments/assets/fdd4053c-ae56-4eb7-aa27-e3a6dfc8c68d" />
+<img width="753" height="485" alt="image" src="https://github.com/user-attachments/assets/d5a508f8-e2c5-419b-be65-9f02b8fb9961" />
+<img width="753" height="368" alt="image" src="https://github.com/user-attachments/assets/e5a6043a-0d5b-4e90-ab0a-334ab7f72d2f" />
+
+------
+
+# date:16/11
+# time spent:1hr
+## description:
+worked on creating an opening on the side of the power bank box for the charging cable. designed a properly shaped hole for the usb type-c port and adjusted its position to match the pcb connection. checked the design to make sure the charging cable can be connected easily without any issues. next, i'll work on adding a small hole on the top for the led indicator.
+## Images
+<img width="747" height="280" alt="image" src="https://github.com/user-attachments/assets/d6688801-6359-467f-8c9e-bf4ca31e3665" />
+<img width="753" height="398" alt="image" src="https://github.com/user-attachments/assets/2bcbc428-35e2-478e-bde1-f3f6f2c2a529" />
+
+------
+
+# date:16/11
+# time spent:1hr
+## description:
+worked on adding a small hole on the top of the power bank box for the led indicator. adjusted its position and size to make sure the light can be seen easily from outside. checked the design to ensure it does not affect the other parts inside the box. next, i'll work on the top cover and make sure it fits properly with the main box.
+## Images
+<img width="665" height="581" alt="image" src="https://github.com/user-attachments/assets/e26c8dab-9945-4725-9743-87dad9946a5b" />
+<img width="630" height="601" alt="image" src="https://github.com/user-attachments/assets/3b7c427d-d234-4ee8-83bc-e3f64d00cb07" />
+<img width="753" height="550" alt="image" src="https://github.com/user-attachments/assets/c46ea3cb-e085-49af-bc1e-bd796ebeaa67" />
+<img width="753" height="602" alt="image" src="https://github.com/user-attachments/assets/3d5620b6-6a80-48ba-93c4-dad659b27de6" />
+
+------
+
+# date:16/11
+# time spent:1hr
+## description:
+completed the main design of the power bank box in autodesk fusion 360. created the top cover and checked how it fits with the main body. also checked the charging port and led indicator openings to make sure they are in the correct positions. viewed the complete design from different sides and made sure everything looks properly aligned. next, i'll check the final measurements and prepare the design for 3d printing.
+## Images
+<img width="686" height="460" alt="image" src="https://github.com/user-attachments/assets/15025abb-e2b9-4d24-8219-7de438dc3d90" />
+<img width="686" height="460" alt="image" src="https://github.com/user-attachments/assets/b055f819-1c03-4eef-ad9f-2c260c1d5ab1" />
